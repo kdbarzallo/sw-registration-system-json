@@ -1,0 +1,170 @@
+{
+  "starship": [
+    {
+      "id": 1,
+      "smuggler_id": 1,
+      "name": {
+        "es": "Corbeta CR90",
+        "en": "CR90 corvette"
+      },
+      "model": {
+        "es": "Corbeta CR90",
+        "en": "CR90 corvette"
+      },
+      "manufacturer": {
+        "es": "Corporación de Ingeniería Corelliana",
+        "en": "Corellian Engineering Corporation"
+      },
+      "featured_image": "assets/media/starships/4354d36812bdd8049b6e4a0f1a34e3cc.jpg"
+    },
+    {
+      "id": 2,
+      "smuggler_id": 2,
+      "name": {
+        "es": "Destructor estelar",
+        "en": "Star Destroyer"
+      },
+      "model": {
+        "es": "Destructor Estelar Imperial clase I",
+        "en": "Imperial I-class Star Destroyer"
+      },
+      "manufacturer": {
+        "es": "Kuat Drive Yards",
+        "en": "Kuat Drive Yards"
+      },
+      "featured_image": "assets/media/starships/c459cce494aaa9db9ffaaab1a3bb527569595948_hq.jpg"
+    },
+    {
+      "id": 3,
+      "smuggler_id": 3,
+      "name": {
+        "es": "Estrella de la muerte",
+        "en": "Death Star"
+      },
+      "model": {
+        "es": "Estación Orbital de Batalla DS-1",
+        "en": "DS-1 Orbital Battle Station"
+      },
+      "manufacturer": {
+        "es": "Departamento Imperial de Investigación Militar, Sistemas de Flota Sienar",
+        "en": "Imperial Department of Military Research, Sienar Fleet Systems"
+      },
+      "featured_image": "assets/media/starships/a6799554b2414d779d4fc2896e2e41b7.jpeg"
+    }
+  ],
+  "smuggler": [
+    {
+      "id": 1,
+      "planet_operations_id": 1,
+      "starship_id": 1,
+      "name": "Luke Skywalker",
+      "featured_image": "assets/media/smugglers/luke-skywalker.jpg",
+      "height": "172",
+      "mass": "77",
+      "hair_color": {
+        "es": "rubio",
+        "en": "blond"
+      },
+      "skin_color": {
+        "es": "claro",
+        "en": "fair"
+      },
+      "eye_color": {
+        "es": "azul",
+        "en": "blue"
+      },
+      "birth_year": "19BBY",
+      "gender": {
+        "es": "hombre",
+        "en": "male"
+      }
+    },
+    {
+      "id": 2,
+      "planet_operations_id": 2,
+      "starship_id": 2,
+      "name": "C-3PO",
+      "featured_image": "assets/media/smugglers/c-3po.jpg",
+      "height": "167",
+      "mass": "75",
+      "hair_color": {
+        "es": "no disponible",
+        "en": "not available"
+      },
+      "skin_color": {
+        "es": "oro",
+        "en": "gold"
+      },
+      "eye_color": {
+        "es": "yellow",
+        "en": "amarillo"
+      },
+      "birth_year": "112BBY",
+      "gender": {
+        "es": "no disponible",
+        "en": "not available"
+      }
+    },
+    {
+      "id": 3,
+      "planet_operations_id": 3,
+      "starship_id": 3,
+      "name": "R2-D2",
+      "featured_image": "assets/media/smugglers/r2-d2.jpg",
+      "height": "96",
+      "mass": "32",
+      "hair_color": {
+        "es": "no disponible",
+        "en": "not available"
+      },
+      "skin_color": {
+        "es": "blanco azul",
+        "en": "white blue"
+      },
+      "eye_color": {
+        "es": "rojo",
+        "en": "red"
+      },
+      "birth_year": "33BBY",
+      "gender": {
+        "es": "no disponible",
+        "en": "not available"
+      }
+    }
+  ],
+  "planet": [
+    {
+      "id": 1,
+      "name": "Tatooine",
+      "orbital_period": "304",
+      "diameter": "10465",
+      "climate": {
+        "es": "árido",
+        "en": "arid"
+      },
+      "featured_image": "assets/media/planets/Tatooine_TPM.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Alderaan",
+      "orbital_period": "364",
+      "diameter": "6540",
+      "climate": {
+        "es": "templado",
+        "en": "temperate"
+      },
+      "featured_image": "assets/media/planets/Alderaan.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Yavin IV",
+      "orbital_period": "355",
+      "diameter": "954",
+      "climate": {
+        "es": "tropical",
+        "en": "tropical"
+      },
+      "featured_image": "assets/media/planets/Yavin-4-SWCT.jpg"
+    }
+  ]
+}
