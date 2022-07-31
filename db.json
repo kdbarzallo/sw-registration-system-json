@@ -54,32 +54,6 @@
   ],
   "smuggler": [
     {
-      "id": 1,
-      "planet_operations_id": 1,
-      "starship_id": 1,
-      "name": "Luke Skywalker",
-      "featured_image": "assets/media/smugglers/luke-skywalker.jpg",
-      "height": "172",
-      "mass": "77",
-      "hair_color": {
-        "es": "rubio",
-        "en": "blond"
-      },
-      "skin_color": {
-        "es": "claro",
-        "en": "fair"
-      },
-      "eye_color": {
-        "es": "azul",
-        "en": "blue"
-      },
-      "birth_year": "19BBY",
-      "gender": {
-        "es": "hombre",
-        "en": "male"
-      }
-    },
-    {
       "id": 2,
       "planet_operations_id": 2,
       "starship_id": 2,
